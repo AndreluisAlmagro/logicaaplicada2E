@@ -3,13 +3,14 @@ public class Main {
     }
 
     // laço enquanto - while
-int(contador<10) {
+     Int contador = 0;
+     While (contador < 10) {
     System.out.println("contador = " + contador);
     // incremento
     contador = contador + 1;
 }
     //laço do para faça - for
-    for(
+    for(int x = 0; x < 10; x++){
     int x = 0;
     x < 10;x++
 
@@ -19,7 +20,7 @@ int(contador<10) {
 
     //faça enquanto - SD while
     int cont = 1;
-    do
+    do {
 
     {
         //processo
@@ -32,18 +33,5 @@ int(contador<10) {
 
 
     }
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 }
